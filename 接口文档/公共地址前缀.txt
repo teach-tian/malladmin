@@ -1,0 +1,11 @@
+线上网址：
+http://admintest.happymmall.com/
+
+
+登陆接口:http://admintest.happymmall.com/manage/user/login.do
+
+参数：
+username:admin
+uassword:admin
+
+
